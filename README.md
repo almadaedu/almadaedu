@@ -9,7 +9,7 @@
     </a>
 </div>
 
-## Hello there
+## Hi, I'm Eduardo Almada 
 
 Hey, welcome to my GitHub profile! 
 Take a coffee and let me explain who I am. ☕
@@ -35,6 +35,8 @@ Take a coffee and let me explain who I am. ☕
 * On my free time, I like to play video games, code, draw and collect Pokemon TCG.
 * I had a "sensei" which teach a lot about programming. He was the kick-off that put me in the job market. Nowadays I study to be as good as him.
 * I had a folder where I kept my drawings that I took everywhere.
+
+<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" /> 
 
 ##
 
