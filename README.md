@@ -20,14 +20,58 @@ Take a coffee and let me explain who I am. ☕
 * **Age**: 21
 * **Living in**: Juiz de fora - MG, Brazil
 * **University**: I am currently in college, in the sixth period, studying Information Systems.
-* **Stacks**: HTML - CSS - JavaScript - SQL - React
+* **Stack**: HTML || CSS || Javascript || Typescript
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Edu-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <b>» Programming Languages «</b>
+  <br>
+  <br>
+  <a href="https://css3.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  </a>
+   <a href="https://sass.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
+  </a>
+   <a href="https://react.io/" target="_blank">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  </a>
+   <a href="https://typescript.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  </a>
+    <a href="https://javascript.io/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <b>» Tools «</b>
+  <br>
+  <br>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://hub.docker.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+  </a>
+ <a>
+  <a href="https://confluence.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/>
+ </a>
+ <a href="https://jira.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
+ </a>
+</div>
+
+<div style="display: inline_block"><br>
+  <b>» Database «</b>
+  <br>
+  <br>
+  <a href="https://mysql.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
+  </a>
+  <a href="https://firebase.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  </a>
 </div>
 
 ## Curiosities about me
