@@ -17,7 +17,7 @@ Take a coffee and let me explain who I am. ☕
 ## Detailed Information
 
 * **Name**: Eduardo Almada
-* **Age**: 21
+* **Age**: 22
 * **Living in**: Juiz de fora - MG, Brazil
 * **University**: I am currently in college, in the sixth period, studying Information Systems.
 * **Stack**: HTML || CSS || Javascript || Typescript || Ubuntu
