@@ -20,26 +20,23 @@ Take a coffee and let me explain who I am. ☕
 * **Age**: 22
 * **Living in**: Juiz de fora - MG, Brazil
 * **University**: I am currently in college, in the sixth period, studying Information Systems.
-* **Stack**: HTML || CSS || Javascript || Typescript || Ubuntu
+* Currently studying .NET
 
 <div style="display: inline_block"><br>
   <b>» Programming Languages «</b>
   <br>
   <br>
-  <a href="https://css3.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs" />
   </a>
-   <a href="https://sass.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>
-  </a>
-   <a href="https://react.io/" target="_blank">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-  </a>
-   <a href="https://typescript.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  </a>
-    <a href="https://javascript.io/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <b>» Frameworks and Libraries «</b>
+  <br>
+  <br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,styledcomponents,jest,dotnet" />
   </a>
 </div>
 
@@ -47,30 +44,17 @@ Take a coffee and let me explain who I am. ☕
   <b>» Tools «</b>
   <br>
   <br>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,azure" />
   </a>
-  <a href="https://hub.docker.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
-  </a>
- <a>
-  <a href="https://confluence.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" width="40" height="40"/>
- </a>
- <a href="https://jira.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="40" height="40"/>
- </a>
 </div>
 
 <div style="display: inline_block"><br>
   <b>» Database «</b>
   <br>
   <br>
-  <a href="https://mysql.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
   </a>
 </div>
 
