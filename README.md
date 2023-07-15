@@ -27,7 +27,7 @@ Take a coffee and let me explain who I am. ☕
   <br>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs" />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,cs,java" />
   </a>
 </div>
 
