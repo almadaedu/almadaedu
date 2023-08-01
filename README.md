@@ -61,7 +61,7 @@ Take a coffee and let me explain who I am. ☕
 ## Curiosities about me
 
 * On my free time, I like to play video games, code, draw and collect Pokemon TCG.
-* I had a "sensei" which teach a lot about programming. He was the kick-off that put me in the job market. Nowadays I study to be as good as him.
+* A hobby involving coding that I have, is exploring game development platforms.
 * I had a folder where I kept my drawings that I took everywhere.
 
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" /> 
