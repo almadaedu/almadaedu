@@ -20,7 +20,7 @@ Take a coffee and let me explain who I am. ☕
 * **Age**: 22
 * **Living in**: Juiz de fora - MG, Brazil
 * **University**: I am currently in college, in the sixth period, studying Information Systems.
-* Currently studying .NET
+* Currently studying SpringBoot
 
 <div style="display: inline_block"><br>
   <b>» Programming Languages «</b>
@@ -36,7 +36,7 @@ Take a coffee and let me explain who I am. ☕
   <br>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,styledcomponents,jest,dotnet" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,styledcomponents,jest,springboot" />
   </a>
 </div>
 
