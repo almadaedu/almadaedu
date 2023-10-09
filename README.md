@@ -36,7 +36,7 @@ Take a coffee and let me explain who I am. ☕
   <br>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,styledcomponents,jest,springboot" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,styledcomponents,jest,spring" />
   </a>
 </div>
 
