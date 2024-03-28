@@ -20,7 +20,7 @@ Take a coffee and let me explain who I am. ☕
 * **Age**: 22
 * **Living in**: Juiz de fora - MG, Brazil
 * **University**: I am currently in college, in the sixth period, studying Information Systems.
-* Currently studying SpringBoot
+* Currently studying Flutter
 
 <div style="display: inline_block"><br>
   <b>» Programming Languages «</b>
