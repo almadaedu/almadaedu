@@ -17,7 +17,7 @@ Take a coffee and let me explain who I am. ☕
 ## Detailed Information
 
 * **Name**: Eduardo Almada
-* **Age**: 22
+* **Age**: 23
 * **Living in**: Juiz de fora - MG, Brazil
 * **University**: I am currently in college, in the sixth period, studying Information Systems.
 * Currently studying Flutter
