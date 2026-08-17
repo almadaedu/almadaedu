@@ -9,18 +9,10 @@
     </a>
 </div>
 
-## Hi, I'm Eduardo Almada 
+## Hi, I'm edu
 
 Hey, welcome to my GitHub profile! 
 Take a coffee and let me explain who I am. ☕
-
-## Detailed Information
-
-* **Name**: Eduardo Almada
-* **Age**: 23
-* **Living in**: Juiz de fora - MG, Brazil
-* **University**: I am currently in college, in the sixth period, studying Information Systems.
-* Currently studying Flutter
 
 <div style="display: inline_block"><br>
   <b>» Programming Languages «</b>
