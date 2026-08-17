@@ -11,53 +11,12 @@
 
 ## Hi, I'm edu
 
-Hey, welcome to my GitHub profile! 
-Take a coffee and let me explain who I am. ☕
+Welcome to my GitHub profile! 
 
-<div style="display: inline_block"><br>
-  <b>» Programming Languages «</b>
-  <br>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cs,java" />
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <b>» Frameworks and Libraries «</b>
-  <br>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,sass,styledcomponents,jest,spring" />
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <b>» Tools «</b>
-  <br>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,azure" />
-  </a>
-</div>
-
-<div style="display: inline_block"><br>
-  <b>» Database «</b>
-  <br>
-  <br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
-  </a>
-</div>
-
-## Curiosities about me
-
-* On my free time, I like to play video games, code, draw and collect One piece TCG.
-
-<img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" /> 
-
-##
-
-
-
-
+<pre>
+    💼 BSC @ UniAcademia • Fullstack dev
+    💻 System programming languages 
+    📖 Software architecture
+    🎮 Music • Games • Nature • Code • Art
+</pre>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjlubG5uODd5MnJydnR5czBvaGg3M3hnYW9kYjNlOGJ4bzNjMHl4ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7aVc7c2P2IIx1jG/giphy.gif" alt="smoke forest gif by Living Stills" width="100%"/>
