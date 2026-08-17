@@ -52,18 +52,11 @@ Take a coffee and let me explain who I am. ☕
 
 ## Curiosities about me
 
-* On my free time, I like to play video games, code, draw and collect Pokemon TCG.
-* A hobby involving coding that I have, is exploring game development platforms.
-* I had a folder where I kept my drawings that I took everywhere.
+* On my free time, I like to play video games, code, draw and collect One piece TCG.
 
 <img src="https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif" width="90" /> 
 
 ##
-
-<div align="center">
-  <a href="https://github.com/almadaedu">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=almadaedu&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
-</div>
 
 
 
