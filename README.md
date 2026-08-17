@@ -46,7 +46,7 @@ Take a coffee and let me explain who I am. ☕
   <br>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
   </a>
 </div>
 
